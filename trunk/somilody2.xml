@@ -8,15 +8,15 @@
 		<Meta name="author">Sparanoid</Meta>
 		<Meta name="author_email">info@sparanoid.com</Meta>
 		<Meta name="author_location">China</Meta>
-		<Meta name="thumbnail">http://somilody.googlecode.com/svn/trunk/thumbnail410x70.jpg</Meta>
-		<Meta name="screenshot">http://somilody.googlecode.com/svn/trunk/screenshot680x116.jpg</Meta>
+		<Meta name="thumbnail">http://somilody.googlecode.com/files/thumbnail410x70.jpg</Meta>
+		<Meta name="screenshot">http://somilody.googlecode.com/files/screenshot680x116.jpg</Meta>
 	</ConfigMap>
 
 	<ConfigMap type="Skin">
 		<!-- 样式 -->
 		<Attribute name="header.background_color">#ffffff</Attribute>
-		<Attribute name="header.center_image.url">http://somilody.googlecode.com/svn/trunk/somilody2.jpg</Attribute>
-		<Attribute name="header.tile_image.url">http://somilody.googlecode.com/svn/trunk/tile.jpg</Attribute>
+		<Attribute name="header.center_image.url">http://somilody.googlecode.com/files/somilody2.jpg</Attribute>
+		<Attribute name="header.tile_image.url">http://somilody.googlecode.com/files/tile.jpg</Attribute>
 		<Attribute name="header.logo">white</Attribute>
 		<Attribute name="header.link_color">#ffc591</Attribute>
 		<Attribute name="header.text_color">#8c1a00</Attribute>
@@ -44,11 +44,11 @@
 		<Attribute name="gadget_area.gadget.body.link_color">#ad511f</Attribute>
 		<Attribute name="gadget_area.icons.icon_color">#ff2a00</Attribute>
 		<Attribute name="footer.background_color">#ECF4FD</Attribute>
-		<Attribute name="footer.center_image.url">http://somilody.googlecode.com/svn/trunk/somilody2-footer.jpg</Attribute>
-		<Attribute name="footer.tile_image.url">http://somilody.googlecode.com/svn/trunk/footer-tile.jpg</Attribute>
+		<Attribute name="footer.center_image.url">http://somilody.googlecode.com/files/somilody2-footer.jpg</Attribute>
+		<Attribute name="footer.tile_image.url">http://somilody.googlecode.com/files/footer-tile.jpg</Attribute>
 		<Attribute name="footer.link_color">#cc5800</Attribute>
 		<Attribute name="footer.text_color">#949494</Attribute>
-		<Attribute name="attribution.image.url">http://somilody.googlecode.com/svn/trunk/attribution.gif</Attribute>
+		<Attribute name="attribution.image.url">http://somilody.googlecode.com/files/attribution.gif</Attribute>
 
 		<!-- 仅限中国地区 -->
 		<Attribute name="gadget_area.tab.selected.background_color">#ffffff</Attribute>
