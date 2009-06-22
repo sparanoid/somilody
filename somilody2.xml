@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Sparanoid 参赛作品，版权所有 -->
+<ConfigMaps>
+	<ConfigMap type="Skin">
+		<!-- 信息 -->
+		<Meta name="title">Somilody 2</Meta>
+		<Meta name="description">Somilody 2 Theme for iGoogle</Meta>
+		<Meta name="author">Sparanoid</Meta>
+		<Meta name="author_email">info@sparanoid.com</Meta>
+		<Meta name="author_location">China</Meta>
+		<Meta name="thumbnail">http://lib.sparanoid.com/igoogle/somilody2/thumbnail410x70.jpg</Meta>
+		<Meta name="screenshot">http://lib.sparanoid.com/igoogle/somilody2/screenshot680x116.jpg</Meta>
+	</ConfigMap>
+
+	<ConfigMap type="Skin">
+		<!-- 样式 -->
+		<Attribute name="header.background_color">#ffffff</Attribute>
+		<Attribute name="header.center_image.url">http://lib.sparanoid.com/igoogle/somilody2/somilody2.jpg</Attribute>
+		<Attribute name="header.tile_image.url">http://lib.sparanoid.com/igoogle/somilody2/tile.jpg</Attribute>
+		<Attribute name="header.logo">white</Attribute>
+		<Attribute name="header.link_color">#ffc591</Attribute>
+		<Attribute name="header.text_color">#8c1a00</Attribute>
+		<Attribute name="navbar.background_color">#f5edda</Attribute>
+		<Attribute name="navbar.border_color">#f0c795</Attribute>
+		<Attribute name="navbar.icons.icon_color">#ff2a00</Attribute>
+		<Attribute name="navbar.tab.selected.link_color">#a33400</Attribute>
+		<Attribute name="navbar.tab.unselected.link_color">#a63500</Attribute>
+		<Attribute name="navbar.tab.unselected.border_color">#ffffff</Attribute>
+		<Attribute name="navbar.contacts.contact_color">#913524</Attribute>
+		<Attribute name="navbar.contacts.status_color">#488a0b</Attribute>
+		<Attribute name="navbar.contacts.hover_background_color">#D4E6FC</Attribute>
+		<Attribute name="navbar.contacts.card.border_color">#C3D9FF</Attribute>
+		<Attribute name="navbar.contacts.invite.background_color">#FFFFCC</Attribute>
+		<Attribute name="navbar.contacts.invite.border_color">#ffc46b</Attribute>
+		<Attribute name="navbar.contacts.invite.text_color">#bd6035</Attribute>
+		<Attribute name="navbar.contacts.invite.link_color">#212166</Attribute>
+		<Attribute name="gadget_area.chat.header.background_color">#f5d9ba</Attribute>
+		<Attribute name="gadget_area.chat.header.highlight.background_color">#f78400</Attribute>
+		<Attribute name="gadget_area.border_color">#e6b385</Attribute>
+		<Attribute name="gadget_area.gadget.border_color">#ebcfb9</Attribute>
+		<Attribute name="gadget_area.gadget.hover.border_color">#fc5b32</Attribute>
+		<Attribute name="gadget_area.gadget.header.background_color">#faecdc</Attribute>
+		<Attribute name="gadget_area.gadget.header.text_color">#d14500</Attribute>
+		<Attribute name="gadget_area.gadget.body.link_color">#ad511f</Attribute>
+		<Attribute name="gadget_area.icons.icon_color">#ff2a00</Attribute>
+		<Attribute name="footer.background_color">#ECF4FD</Attribute>
+		<Attribute name="footer.center_image.url">http://lib.sparanoid.com/igoogle/somilody2/somilody2-footer.jpg</Attribute>
+		<Attribute name="footer.tile_image.url">http://lib.sparanoid.com/igoogle/somilody2/footer-tile.jpg</Attribute>
+		<Attribute name="footer.link_color">#cc5800</Attribute>
+		<Attribute name="footer.text_color">#949494</Attribute>
+		<Attribute name="attribution.image.url">http://lib.sparanoid.com/igoogle/somilody2/attribution.gif</Attribute>
+
+		<!-- 仅限中国地区 -->
+		<Attribute name="gadget_area.tab.selected.background_color">#ffffff</Attribute>
+		<Attribute name="gadget_area.tab.selected.text_color">#d14500</Attribute>
+		<Attribute name="gadget_area.tab.unselected.background_color">#d14500</Attribute>
+		<Attribute name="gadget_area.tab.unselected.text_color">#ffffff</Attribute>
+		<Attribute name="gadget_area.tab.border_color">#ebcfb9</Attribute>
+
+		<!-- 导航按钮，仅限中国地区 -->
+		<Attribute name="gadget_area.menu_icon.image.url">http://igoogle-themes.googlecode.com/svn/trunk/ff2a00_menu.gif</Attribute>
+		<Attribute name="gadget_area.menu_icon.hover_image.url">http://igoogle-themes.googlecode.com/svn/trunk/ff2a00_menu_hover.gif</Attribute>
+		<Attribute name="gadget_area.delete_icon.image.url">http://igoogle-themes.googlecode.com/svn/trunk/ff2a00_delete.gif</Attribute>
+		<Attribute name="gadget_area.delete_icon.hover_image.url">http://igoogle-themes.googlecode.com/svn/trunk/ff2a00_delete_hover.gif</Attribute>	</ConfigMap>
+</ConfigMaps>
