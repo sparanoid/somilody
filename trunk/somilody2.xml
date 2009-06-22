@@ -14,7 +14,7 @@
 
 	<ConfigMap type="Skin">
 		<!-- 样式 -->
-		<Attribute name="header.background_color">#ffffff</Attribute>
+		<Attribute name="header.background_color">#fff</Attribute>
 		<Attribute name="header.center_image.url">http://somilody.googlecode.com/files/somilody2.jpg</Attribute>
 		<Attribute name="header.tile_image.url">http://somilody.googlecode.com/files/tile.jpg</Attribute>
 		<Attribute name="header.logo">white</Attribute>
@@ -25,7 +25,7 @@
 		<Attribute name="navbar.icons.icon_color">#ff2a00</Attribute>
 		<Attribute name="navbar.tab.selected.link_color">#a33400</Attribute>
 		<Attribute name="navbar.tab.unselected.link_color">#a63500</Attribute>
-		<Attribute name="navbar.tab.unselected.border_color">#ffffff</Attribute>
+		<Attribute name="navbar.tab.unselected.border_color">#fff</Attribute>
 		<Attribute name="navbar.contacts.contact_color">#913524</Attribute>
 		<Attribute name="navbar.contacts.status_color">#488a0b</Attribute>
 		<Attribute name="navbar.contacts.hover_background_color">#D4E6FC</Attribute>
@@ -51,10 +51,10 @@
 		<Attribute name="attribution.image.url">http://somilody.googlecode.com/files/attribution.gif</Attribute>
 
 		<!-- 仅限中国地区 -->
-		<Attribute name="gadget_area.tab.selected.background_color">#ffffff</Attribute>
+		<Attribute name="gadget_area.tab.selected.background_color">#fff</Attribute>
 		<Attribute name="gadget_area.tab.selected.text_color">#d14500</Attribute>
 		<Attribute name="gadget_area.tab.unselected.background_color">#d14500</Attribute>
-		<Attribute name="gadget_area.tab.unselected.text_color">#ffffff</Attribute>
+		<Attribute name="gadget_area.tab.unselected.text_color">#fff</Attribute>
 		<Attribute name="gadget_area.tab.border_color">#ebcfb9</Attribute>
 
 		<!-- 导航按钮，仅限中国地区 -->
